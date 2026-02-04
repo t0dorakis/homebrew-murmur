@@ -1,9 +1,9 @@
 class Murmur < Formula
   desc "Scheduled Claude prompts that only speak when something needs attention"
   homepage "https://github.com/t0dorakis/murmur"
-  url "https://github.com/t0dorakis/murmur/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "497522b16452562e955d48bfb780a353775ab4f66bc7fb57c3b28460233f18a2"
-  version "0.1.0"
+  url "https://github.com/t0dorakis/murmur/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "e26cfdea8e43971762429cbb0dc09b84a887e61ee2a842e5e9916d6cc7387bdc"
+  version "0.1.1"
   license "MIT"
 
   depends_on "bun"
